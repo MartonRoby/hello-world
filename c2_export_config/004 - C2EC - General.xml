@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<c2_export_config new_format="true">
+	<object_name value="004 - C2EC - General"/>
+	<title value=""/>
+	<subject value=""/>
+	<authors/>
+	<keywords/>
+	<a_status value=""/>
+	<a_content_type value="xml"/>
+	<log_entry value=""/>
+	<language_code value=""/>
+	<application_names>
+		<repeating value="004 SPARROWS"/>
+	</application_names>
+	<lock_config value="F"/>
+	<parents_config/>
+	<default_config value="F"/>
+	<label_locale>
+		<repeating value="en"/>
+	</label_locale>
+	<label_value>
+		<repeating value="Approvers page added"/>
+	</label_value>
+	<input_format value="pdf"/>
+</c2_export_config>
